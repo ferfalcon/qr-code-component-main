@@ -1,8 +1,8 @@
 :root {
-  --cl-light-grey: #D5E1EF;
-  --cl-grey: #7D889E;
-  --cl-dark-navy: #1F314F;
-  --cl-white: #FFFFFF;
+  --cl-light-grey: hsl(212, 45%, 89%);
+  --cl-grey: hsl(220, 15%, 55%);
+  --cl-dark-navy: hsl(218, 44%, 22%);
+  --cl-white: hsl(0, 0%, 100%);
 }
 
 html {
@@ -15,6 +15,8 @@ html {
 
 body {
 	font-family: 'Outfit', sans-serif;
+	font-weight: 400;
+	font-size: .938rem;
 	background: var(--cl-light-grey);
 	display: grid;
 	place-content: center;
@@ -30,7 +32,6 @@ img {
 }
 
 main {
-	font-size: .938rem;
 	background: var(--cl-white);
 	width: 90%;
 	max-width: 20rem;
@@ -44,6 +45,7 @@ main {
 	font-size: 1.375rem;
 	color: var(--cl-dark-navy);
 	margin: 1.25rem 0;
+	font-weight: 700;
 }
 
 .body-text {
