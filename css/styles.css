@@ -31,7 +31,7 @@ img {
 	display: block;
 }
 
-main {
+.qr-component {
 	background: var(--cl-white);
 	width: 90%;
 	max-width: 20rem;
