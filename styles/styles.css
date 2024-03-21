@@ -1,8 +1,10 @@
 :root {
-  --cl-light-grey: hsl(212, 45%, 89%);
-  --cl-grey: hsl(220, 15%, 55%);
-  --cl-dark-navy: hsl(218, 44%, 22%);
-  --cl-white: hsl(0, 0%, 100%);
+  --cl-blue: #2C7DFA;
+  --cl-blue-shade: #3685FF;
+  --cl-dark-navy: #1F314F;
+  --cl-grey: #7D889E;
+  --cl-light-grey: #D5E1EF;
+  --cl-white: #FFFFFF;
 }
 html {
   box-sizing: border-box;
