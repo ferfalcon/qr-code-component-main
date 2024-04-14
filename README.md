@@ -62,7 +62,7 @@ I started using css custom properties to define every part of the typographic el
 ### Useful resources
 
 - [Viewport units](https://www.youtube.com/watch?v=ru3U8MHbFFI)
-- [Color palettes](https://www.example.com) - This help me to name colors
+- [Color palettes](https://www.youtube.com/watch?v=yYwEnLYT55c) - This help me to name colors
 
 ## Author
 
