@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 - [Less](https://lesscss.org/) - CSS preprocessor for styles
-- [BEM](https://nextjs.org/) - Naming convention for HTML elements classification
+- [BEM](https://getbem.com/) - Naming convention for HTML elements classification
 
 ### What I learned
 
